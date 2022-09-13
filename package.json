@@ -1,0 +1,24 @@
+{
+  "name": "taller-de-programacion-competitiva-nivel-inicial-pre-tap-2022",
+  "version": "1.0.0",
+  "description": "Pre TAP, FI-UNJu",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/GaleedGutierrez/Taller-de-Programacion-Competitiva-Nivel-Inicial-Pre-TAP-2022.git"
+  },
+  "keywords": [
+    "Python",
+    "C++",
+    "MD"
+  ],
+  "author": "Galeed Gutierrez <galeedeveloper@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/GaleedGutierrez/Taller-de-Programacion-Competitiva-Nivel-Inicial-Pre-TAP-2022/issues"
+  },
+  "homepage": "https://github.com/GaleedGutierrez/Taller-de-Programacion-Competitiva-Nivel-Inicial-Pre-TAP-2022#readme"
+}
