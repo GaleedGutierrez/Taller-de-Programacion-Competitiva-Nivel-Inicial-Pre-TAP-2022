@@ -1,4 +1,4 @@
-# Área de la figura
+Ir# Área de la figura
 
 |           Puntos          |<span style="font-weight: normal;">10.76</span>|  Tamaño límite de entrada (bytes)  |<span style="font-weight: normal;">32 MiB</span>|
 |      :------------:       |               :------------:                  |           :------------:           | :------------: |
@@ -13,7 +13,7 @@ Se define un $\large n$-polígono-interesante. Tu tarea es encontrar el área de
 
 Un $\large 1$-polígono-interesante es sólo un cuadrado con lado de longitud $\large 1$. Un $\large n$-polígono-interesante es obtenido tomando un $\large (n-1)$-polígono-interesante y adjuntando $\large 1$-polígono-interesante en sus bordes, es decir, agregando en cada lado un cuadrado de lado $\large 1$.
 
-En la imagen de abajo se pueden verlos $\large 1-, 2-, 3-, 4-$polígonos-interesantes.
+En la imagen de abajo se pueden verlos $\large 1-, 2-, 3-, 4-$ polígonos-interesantes.
 
 <figure>
     <img src="./poligonos-interesantes.png" alt="Polígonos interesantes."/>
