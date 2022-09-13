@@ -13,7 +13,8 @@ Escribe un programa que lea dos secuencias de $\large n$ enteros cada una y dete
 ## Entrada
 
 Un entero seguido de una línea con los enteros de la primera secuencia y de otra línea con los enteros de la segunda secuencia. Los enteros de las secuencias aparecen separados por espacios. Puedes suponer que todos los enteros están en el rango de $\large 1$ a $\large 100$.
-#Salida
+
+## Salida
 El valor $\large 1$ si se cumple la propiedad descrita o el valor $\large 0$ en otro caso.
 
 ## Ejemplo
