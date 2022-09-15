@@ -1,5 +1,4 @@
-# Frecuencias en un histograma
-
+# Contando vocales
 |           Puntos          |<span style="font-weight: normal;">11.53</span>|  Tamaño límite de entrada (bytes)  |<span style="font-weight: normal;">32 MiB</span>|
 |      :------------:       |               :------------:                  |           :------------:           | :------------: |
 |**Límite de tiempo (caso)**|                     1s                        |    **Límite de tiempo (total)**    |      1m0s      |

@@ -1,4 +1,4 @@
-# Frecuencias en un histograma
+# Frecuencia de una letra
 
 |           Puntos          |<span style="font-weight: normal;">12.45</span>|  Tamaño límite de entrada (bytes)  |<span style="font-weight: normal;">32 MiB</span>|
 |      :------------:       |               :------------:                  |           :------------:           | :------------: |
