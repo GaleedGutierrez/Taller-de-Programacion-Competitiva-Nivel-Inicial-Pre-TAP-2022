@@ -1,4 +1,4 @@
-# Frecuencias en un histograma
+# Palabra palindroma
 
 |           Puntos          |<span style="font-weight: normal;">10.94</span>|  Tamaño límite de entrada (bytes)  |<span style="font-weight: normal;">32 MiB</span>|
 |      :------------:       |               :------------:                  |           :------------:           | :------------: |
