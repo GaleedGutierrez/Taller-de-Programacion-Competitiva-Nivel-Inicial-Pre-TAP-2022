@@ -51,7 +51,7 @@ Una secuencia de $\large m$ enteros separados por espacios, donde cada entero re
 ------------
 
 Fuente: UAM Azcapotzalco 2020
-Subido por: [Luis Pedroza (LuisPedroza)](https://omegaup.com/profile/rcc/ "Luis Pedroza (LuisPedroza)")
+Subido por: [Luis Pedroza (LuisPedroza)](https://omegaup.com/profile/LuisPedroza/ "Luis Pedroza (LuisPedroza)")
 Problema subido en: 23/10/2020
 Página: omegaup.com
 
